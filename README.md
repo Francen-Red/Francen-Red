@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Francen-Red
 - 👀 I’m interested in science and technology
-- 🌱 I’m currently learning Computer Engineering at Polytechnic University of the Philippines
+- 📖 I’m currently learning Computer Engineering at Polytechnic University of the Philippines
 - 💞️ I’m looking to collaborate on web developing, software toolmaking, and more techy stuffs
-- 📫 You may reach me at francenvenisseered@gmail.com
-- 😄 Pronouns: she/her
+- ✉️ You may reach me at francenvenisseered@gmail.com
+- 🙆🏻‍♀️ Pronouns: she/her
 - ⚡ Fun fact about me: I'm curious about everything and love exploring new ideas—why stick to one thing when there's so much to learn?
 
 <!---
